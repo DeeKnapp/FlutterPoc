@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "491655707898",
+    "firebase_url": "https://poc-project-9106d.firebaseio.com",
+    "project_id": "poc-project-9106d",
+    "storage_bucket": "poc-project-9106d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491655707898:android:c587cabdbaf064e7",
+        "android_client_info": {
+          "package_name": "com.poc.ford.flutterapppoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491655707898-65ktimhm0icc1u0armrkbdschal8njhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hQlhgK-F6gDdW-8VIdla7g-cR1f9pQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
