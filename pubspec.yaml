@@ -30,6 +30,8 @@ dependencies:
 
   spritewidget: 0.9.17
 
+  zoomable_image: 1.2.1+1
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -47,9 +49,12 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-    - images/example_floor_plan.jpeg
-  #  - images/a_dot_ham.jpeg
+  assets:
+    - assets/example_floor_plan.jpeg
+    - assets/fourth_floor_tpm.png
+    - assets/pin.png
+    - assets/splash_icon.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
