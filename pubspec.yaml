@@ -54,6 +54,7 @@ flutter:
     - assets/fourth_floor_tpm.png
     - assets/pin.png
     - assets/splash_icon.png
+    - assets/map_marker_splash.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
